@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 <!--
 **Tevzi2/Tevzi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
