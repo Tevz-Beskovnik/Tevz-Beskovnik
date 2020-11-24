@@ -1,6 +1,6 @@
 ## Hello there, welcome to my personal page
 
-### Projects:
+### My projects:
 * **💬 Chat-Up:** Free websocket chat application, simple to use, check it out [here](https://chat-up.me/).
 * **🖥️ back end server:** My personal [back end server](https://github.com/Tevzi2/Tevz-BackEnd) for serving html, and all other files requested by browser to frontend.
 * **📁 file scraper:** Program that stores *spool* files as **pdf** files if the program you're printing from does not store them. *Compiled version with GUI comming soon* for now the raw node project is [here](https://github.com/Tevzi2/file-scraper).
