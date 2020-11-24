@@ -17,7 +17,7 @@
 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.48-insider&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Tevzi2&color=181717&style=for-the-badge&logo=github)
-![GitKraken](https://img.shields.io/static/v1?label=GitHub&message=Tevzi2&color=44abd4&style=for-the-badge&logo=gitkraken)
+![GitKraken](https://img.shields.io/static/v1?label=GitKraken&message=Tevzi2&color=44abd4&style=for-the-badge&logo=gitkraken)
 
 ### Some of my statistics:
 
