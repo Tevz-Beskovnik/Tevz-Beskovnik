@@ -1,5 +1,9 @@
-### Hello
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+## Hello there, welcome to my personal page
+
+### Projects:
+* **💬 Chat-Up:** Free websocket chat application, simple to use, check it out [here](https://chat-up.me/).
+* **🖥️ back end server:** My personal [back end server](https://github.com/Tevzi2/Tevz-BackEnd) for serving html, and all other files requested by browser to frontend.
+* **📁 file scraper:** Program that stores *spool* files as **pdf** files if the program you're printing from does not store them. *Compiled version with GUI comming soon* for now the raw node project is [here](https://github.com/Tevzi2/file-scraper).
 <!--
 **Tevzi2/Tevzi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
