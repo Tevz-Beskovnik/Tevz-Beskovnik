@@ -1,4 +1,4 @@
-## Hello there, welcome to my personal page
+## Hello there, welcome to my profile page
 
 ### My projects:
 * **💬 Chat-Up:** Free websocket chat application, simple to use, check it out [here](https://chat-up.me/).
