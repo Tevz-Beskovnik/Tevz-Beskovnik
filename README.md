@@ -19,6 +19,7 @@
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Tevzi2&color=181717&style=for-the-badge&logo=github)
 ![GitKraken](https://img.shields.io/static/v1?label=GitKraken&message=7.4.0&color=44abd4&style=for-the-badge&logo=gitkraken)
 ![Postman](https://img.shields.io/static/v1?label=Postman&message=7.36.0&color=ff6c37&style=for-the-badge&logo=postman)
+![Visual studio 2019](https://img.shields.io/static/v1?label=Visual%20studio&message=2019%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio)
 
 
 ### Some of my statistics:
