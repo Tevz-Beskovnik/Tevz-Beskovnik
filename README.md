@@ -5,7 +5,7 @@
 * **🖥️ back end server:** My personal [back end server](https://github.com/Tevzi2/Tevz-BackEnd) for serving html, and all other files requested by browser to frontend.
 * **📁 file scraper:** Program made for my practical work at an imployer, that stores *spool* files as **pdf** files if the program you're printing from does not store them. *Compiled version with GUI comming soon* for now the raw node project is [here](https://github.com/Tevzi2/file-scraper).
 * **🧊 3D cube render in console:** Made it when i was bored. It's written in node.js without any external packages so just [download](https://github.com/Tevzi2/3DCubeRenderCMD) it and try it out, no extra steps.  :)
-* **🚶 Marching cubes alghoritem** Made with my custom viewportGL class, with the use of perlin noise makes a chunk of "natural" looking terrain. project files are [here](https://github.com/Tevzi2/webglelectronproject).
+<!---* **🚶 Marching cubes alghoritem** Made with my custom viewportGL class, with the use of perlin noise makes a chunk of "natural" looking terrain. project files are [here](https://github.com/Tevzi2/webglelectronproject).
 
 ### Languages I know:
 
