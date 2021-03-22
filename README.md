@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML5&style=for-the-badge&color=D63933&logo=HTML5)
 ![PHP](https://img.shields.io/static/v1?label=PHP&message=7.4&style=for-the-badge&color=8892BF&logo=PHP)
 ![NODE.JS](https://img.shields.io/static/v1?label=NODE.JS&message=14.15.1&style=for-the-badge&color=43853D&logo=NODE.JS)
+![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=20&style=for-the-badge&color=33BAFF&logo=c%2B%2B)
 
 ### Software I use:
 
