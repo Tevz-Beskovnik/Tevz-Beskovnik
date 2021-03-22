@@ -29,7 +29,7 @@
 
 **My GitHub statistics:**|**My top languages:**
 -------------------------|---------------------- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tevzi2&show_icons=true&theme=vue-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevzi2&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Tevž's github stats](https://github-readme-stats.vercel.app/api?username=tevzi2&show_icons=true&theme=vue-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevzi2&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tevzi2/Tevzi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
