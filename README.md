@@ -1,11 +1,11 @@
 ## Hello there, welcome to my profile page
 
 ### My projects:
-* **💬 Chat-Up:** Free websocket chat application, simple to use, check it out [here](https://chat-up.me/).
-* **🖥️ back end server:** My personal [back end server](https://github.com/Tevzi2/Tevz-BackEnd) for serving html, and all other files requested by browser to frontend.
-* **📁 file scraper:** Program made for my practical work at an imployer, that stores *spool* files as **pdf** files if the program you're printing from does not store them. *Compiled version with GUI comming soon* for now the raw node project is [here](https://github.com/Tevzi2/file-scraper).
-* **🧊 3D cube render in console:** Made it when i was bored. It's written in node.js without any external packages so just [download](https://github.com/Tevzi2/3DCubeRenderCMD) it and try it out, no extra steps.  :)
-<!---* **🚶 Marching cubes alghoritem** Made with my custom viewportGL class, with the use of perlin noise makes a chunk of "natural" looking terrain. project files are [here](https://github.com/Tevzi2/webglelectronproject).----->
+* **Zwet-engine:** (Soon to be Bolt-egine) My very simple 3D game engine made with OpenGL, GLFW, SimdJSON, OpenAL, Conan and cmake check out [here](https://github.com/Tevzi2/Zwet-engine)
+* **zvet.xyz:** My websites frontend you can view it [here](https://github.com/Tevzi2/zvet.xyz)
+* **Marching cubes alghoritm in browser:** Runs in browser renders a small section of a noise with the marching cubes algorithm witch you can move trough with a camera check out [here](https://github.com/Tevzi2/webglelectronproject)
+* **3D cube render in console:** Made it when I was bored. It's written in node.js without any external packages check out [here](https://github.com/Tevzi2/3DCubeRenderCMD)
+* **SFS OS**: A operating system I'm working on, that will function like git, and have the git standard implemented (Sadly private for the time being).
 
 ### Languages I know:
 
@@ -15,6 +15,8 @@
 ![PHP](https://img.shields.io/static/v1?label=PHP&message=7.4&style=for-the-badge&color=8892BF&logo=PHP)
 ![NODE.JS](https://img.shields.io/static/v1?label=NODE.JS&message=14.15.1&style=for-the-badge&color=43853D&logo=NODE.JS)
 ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=20&style=for-the-badge&color=33BAFF&logo=c%2B%2B)
+![C](https://img.shields.io/static/v1?label=C&message=17&style=for-the-badge&color=283395&logo=c)
+![ASM](https://img.shields.io/static/v1?label=assembly&message=intel%20syntax&style=for-the-badge&color=113B6A)
 
 ### Software I use:
 
@@ -23,6 +25,9 @@
 ![GitKraken](https://img.shields.io/static/v1?label=GitKraken&message=7.4.0&color=44abd4&style=for-the-badge&logo=gitkraken)
 ![Postman](https://img.shields.io/static/v1?label=Postman&message=7.36.0&color=ff6c37&style=for-the-badge&logo=postman)
 ![Visual studio 2019](https://img.shields.io/static/v1?label=Visual%20studio&message=2019%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio)
+![cmake](https://img.shields.io/static/v1?label=cmake&message=3.22.0&style=for-the-badge&color=1f9748&logo=cmake)
+![make](https://img.shields.io/static/v1?label=make&message=4.3&style=for-the-badge&color=a32d2a&logo=gnu)
+![nasm](https://img.shields.io/static/v1?label=nasm&message=2.15.05&style=for-the-badge&color=113B6A&logo=netwide-assembler)
 
 
 ### Some of my statistics:
