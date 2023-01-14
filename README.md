@@ -5,6 +5,7 @@
 * **Marching cubes alghoritm in browser:** Runs in browser renders a small section of a noise with the marching cubes algorithm witch you can move trough with a camera. Check out [here](https://github.com/Tevzi2/webglelectronproject)
 * **Sharp memory display driver:** SPI display driver for the **sharp memory display**
 * **ESP32 handheld game console:** a game console like interface for the esp32 and the sharp memory display (400x240px), has a feture that lets you implement your own programs/games, can be used for a wide veriety of things from creating pentesting tools to making a game console.
+* **ESP32 weather station:** webserver for the ESP32 that hosts a weather station app.
 
 ### Languages I know:
 
