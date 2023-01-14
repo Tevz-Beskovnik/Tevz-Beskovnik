@@ -1,11 +1,10 @@
 ## Hello there, welcome to my profile page
 
 ### My projects:
-* **Zwet-engine:** (Soon to be Bolt-egine) My very simple 3D game engine made with OpenGL, GLFW, SimdJSON, OpenAL, Conan and cmake. Check out [here](https://github.com/Tevzi2/Zwet-engine)
-* **zvet.xyz:** My websites frontend you can view it [here](https://github.com/Tevzi2/zvet.xyz)
+* **Zwet-engine:** My very simple 3D game engine made with OpenGL, GLFW, SimdJSON, OpenAL, Conan and cmake. Check out [here](https://github.com/Tevzi2/Zwet-engine)
 * **Marching cubes alghoritm in browser:** Runs in browser renders a small section of a noise with the marching cubes algorithm witch you can move trough with a camera. Check out [here](https://github.com/Tevzi2/webglelectronproject)
-* **3D cube render in console:** Made it when I was bored. It's written in node.js without any external packages. Check out [here](https://github.com/Tevzi2/3DCubeRenderCMD)
-* **SFS OS**: A operating system I'm working on, that will function like git, and have the git standard implemented (Sadly private for the time being).
+* **Sharp memory display driver:** SPI display driver for the **sharp memory display**
+* **ESP32 handhel game console:** a game console like interface for the esp32 and the sharp memory display (400x240px), has a feture that lets you implement your own programs/games, can be used for a wide veriety of things from creating pentesting tools to making a game console.
 
 ### Languages I know:
 
