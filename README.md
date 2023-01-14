@@ -29,13 +29,6 @@
 ![make](https://img.shields.io/static/v1?label=make&message=4.3&style=for-the-badge&color=a32d2a&logo=gnu)
 ![nasm](https://img.shields.io/static/v1?label=nasm&message=2.15.05&style=for-the-badge&color=113B6A&logo=netwide-assembler)
 
-
-### Some of my statistics:
-
-**My GitHub statistics:**|**My top languages:**
--------------------------|---------------------- 
-![Tevž's github stats](https://github-readme-stats.vercel.app/api?username=tevzi2&show_icons=true&theme=vue-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tevzi2&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Tevzi2/Tevzi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
