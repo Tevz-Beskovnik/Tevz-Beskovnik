@@ -23,6 +23,7 @@ I have a total of 5 years amature of experience as well as 3 year of professiona
 
 - Voxel render/game engine written in rust
 - OS kernel written in rust
+
 Currently on a rustcation 🦀🌴
 
 <!--
