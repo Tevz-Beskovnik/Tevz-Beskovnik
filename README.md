@@ -2,7 +2,7 @@
 
 I'm a second year university student at FERI. Studying computer sciance and information technologies.
 
-I have a total of 5 years amature of experience as well as 3 year of professional working experience on frontend and backend application with multiple tech stack, aswell as embeded systems, such as the Espressif platform and the Arduino development boards, with a little bit of PCB development sprinkled into the mix.
+I have a total of 5 years amature of experience as well as 3 year of professional working experience on frontend and backend application with multiple tech stacks, aswell as embeded systems, such as the Espressif platform and the Arduino development boards, with a little bit of PCB development sprinkled into the mix.
 
 ### My recent endevours:
 
