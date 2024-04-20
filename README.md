@@ -1,30 +1,31 @@
 ## Welcome to my profile 👋
 
-I'm a second year university student at FERI. Studying computer sciance and information technologies.
+I'm a second-year university student at FERI. Studying Computer Science and Information Technologies.
 
-I have a total of 5 years amature of experience as well as 3 year of professional working experience on frontend and backend application with multiple tech stacks, aswell as embeded systems, such as the Espressif platform and the Arduino development boards, with a little bit of PCB development sprinkled into the mix.
+I have a total of 5 years amateur experience as well as 3 years of professional working experience on frontend and backend applications with multiple tech stacks, as well as embedded systems, such as the Espressif platform and the Arduino development boards, with a little bit of PCB development sprinkled into the mix.
 
-### My recent endevours:
+### My recent endeavours:
 
-- Internship as fullstack developer at norik sistems
-- Fullstack developer at I.T. tim
-- Backend engineer at [kodex](https://kodex.io)
-- Software developer at solve-x
-- Project planner and lead developer of matchscore (a badminton turnament scoring sistem tba)
+- Internship as a fullstack developer at Norik Systems
+- Fullstack developer at I.T. TIM
+- Backend engineer at [Kodex](https://kodex.io)
+- Software developer at Solve-X
+- Project planner and lead developer of MatchScore (a badminton tournament scoring system - TBA)
 
 ### My recent projects:
 
-- **Bolt-engine** game engine built in C++ with glfw and openGL, supporting object loading, scenes, render layers and programable cameras, aswell as objects.
-- **ESPhandheld** a ESP32 based handheld device for gaming and a little bit of whitehat hacking.
-- **Matchscore** badminton tournament scoring system, **tba**.
-- And mostlikely some stuff that I am forgeting
+- **Bolt-engine** game engine built in C++ with GLFW and OpenGL, supporting object loading, scenes, render layers and programmable cameras, as well as objects.
+- **ESPhandheld** a ESP32-based handheld device for gaming and a little bit of whitehat hacking.
+- **MatchScore** badminton tournament scoring system, **TBA**.
+
+And most likely some stuff that I am forgetting
 
 ### My future plans
 
-- Voxel render/game engine written in rust
-- OS kernel written in rust
+- Voxel render/game engine written in Rust
+- OS kernel written in Rust
 
-Currently on a rustcation 🦀🌴
+Currently on a Rustcation 🦀🌴
 
 <!--
 **Tevzi2/Tevzi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
