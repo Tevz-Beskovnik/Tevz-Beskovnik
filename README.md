@@ -10,6 +10,7 @@ I have a total of 5 years amateur experience as well as 3 years of professional 
 - Fullstack developer at I.T. TIM
 - Backend engineer at [Kodex](https://kodex.io)
 - Software developer at Solve-X
+- Embeded engineer at DeweSoft
 - Project planner and lead developer of MatchScore (a badminton tournament scoring system - TBA)
 
 ### My recent projects:
