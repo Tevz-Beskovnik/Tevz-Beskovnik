@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 
-I'm a second-year university student at FERI. Studying Computer Science and Information Technologies.
+I'm a third-year university student at FERI. Studying Computer Science and Information Technologies.
 
 I have a total of 5 years amateur experience as well as 3 years of professional working experience on frontend and backend applications with multiple tech stacks, as well as embedded systems, such as the Espressif platform and the Arduino development boards, with a little bit of PCB development sprinkled into the mix.
 
