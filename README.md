@@ -1,44 +1,20 @@
-## Welcome to my profile 👋
+## Hellou
 
-I'm a third-year university student at FERI. Studying Computer Science and Information Technologies.
+I'm a CS student at FERI, that works at Dewesoft.
 
-I have a total of 5 years amateur experience as well as 3 years of professional working experience on frontend and backend applications with multiple tech stacks, as well as embedded systems, such as the Espressif platform and the Arduino development boards, with a little bit of PCB development sprinkled into the mix.
+Build systems are [#toomuch](https://github.com/tsoding/nob.h)
 
-### My recent endeavours:
+[Boot this cat](https://gitlab.matchscore.si/tevz.beskovnik/efi-toomfoolery)
 
-- Internship as a fullstack developer at Norik Systems
-- Fullstack developer at I.T. TIM
-- Backend engineer at [Kodex](https://kodex.io)
-- Software developer at Solve-X
-- Embeded developer at Dewesoft (Currently)
-- Project planner and lead developer of MatchScore (a badminton tournament scoring system - TBA)
+Are you into building keyboard? Maybe even handwireing them? Check out the [Macro8](https://github.com/Tevz-Beskovnik/zmk-handwired-macro8) project.
 
-### My recent projects:
+### What I like to do right now:
 
-- **Bolt-engine** game engine built in C++ with GLFW and OpenGL, supporting object loading, scenes, render layers and programmable cameras, as well as objects.
-- **ESPhandheld** a ESP32-based handheld device for gaming and a little bit of whitehat hacking.
-- **MatchScore** badminton tournament scoring system, **TBA**.
+- Analyzing ELF files,
+- Exploring the UEFI API and specification,
+- Hyprland ricing,
+- Write thing in C, C++ and Rust,
+- Working on low level Linux,
+- Game engines,
+- Turning old laptops into servers
 
-And most likely some stuff that I am forgetting
-
-### My future plans
-
-- Voxel render/game engine written in Rust
-- OS kernel written in Rust
-
-Currently on a Rustcation 🦀🌴
-
-<!--
-**Tevzi2/Tevzi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
